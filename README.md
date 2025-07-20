@@ -123,6 +123,7 @@
 5. **Ensemble 결과**:
 
    * 위 16개의 학습/추론 코드를 모두 실행하면,
+     
      → `ensemble/data/val_ensemble_folding` 폴더에
 
      * **validation 추론 결과 16개** 저장됩니다.
