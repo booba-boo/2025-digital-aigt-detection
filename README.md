@@ -88,7 +88,7 @@
 ## 사용 환경
 
 * **Jupyter Lab (python 3.11)**
-* **NVIDIA H100 80GB**
+* **GPU: NVIDIA H100 80GB**
 * **OS: Ubuntu 22.04** 
 ---
 
